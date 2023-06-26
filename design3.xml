@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Design xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="e:\cadence\spb_17.4\tools\capture\tclscripts\capdb\dsn.xsd">
+
+  <Defn name="e:\spb_data\design3.dsn" objectType="SCHEMATIC" rootName="SCHEMATIC1" useExplicitDbId="1"/>
+
+  <DefaultValues>
+    <Defn/>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="0" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="1" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="2" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="3" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="4" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="5" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="6" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="7" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="8" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="10" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="11" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="12" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="13" italic="0" name="Courier New" orientation="0" weight="400" width="5"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="14" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="15" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="-9" index="16" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="17" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="18" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="19" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="20" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="21" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="22" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultFont>
+      <Defn charset="0" escapement="0" height="8" index="23" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+    </DefaultFont>
+    <DefaultPageRec>
+      <Defn ANSIGridRefs="1" BorderDisplayed="1" BorderPrinted="1" GridRefDisplayed="1" GridRefPrinted="1" HorizontalLabelCount="5" HorizontalLabelIsAscending="0" HorizontalLabelIsChar="0" HorizontalLabelWidth="100" IsMetric="0" PinToPin="100" TitleBlockDisplayed="1" TitleBlockPrinted="1" VerticalLabelCount="4" VerticalLabelIsAscending="0" VerticalLabelIsChar="1" VerticalLabelWidth="100"/>
+    </DefaultPageRec>
+    <DefaultPlacedInstIsPrimitive>
+      <Defn val="1"/>
+    </DefaultPlacedInstIsPrimitive>
+    <DefaultDrawnInstIsPrimitive>
+      <Defn val="0"/>
+    </DefaultDrawnInstIsPrimitive>
+    <DefaultPartFieldMapping>
+      <Defn index="1" val="1ST PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="2" val="2ND PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="3" val="3RD PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="4" val="4TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="5" val="5TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="6" val="6TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="7" val="7TH PART FIELD"/>
+    </DefaultPartFieldMapping>
+    <DefaultPartFieldMapping>
+      <Defn index="8" val="PCB Footprint"/>
+    </DefaultPartFieldMapping>
+  </DefaultValues>
+
+  <Cache>
+    <Defn/>
+    <TitleBlockSymbol>
+      <Defn name="TitleBlock0" sourceLibName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB"/>
+      <SymbolDisplayProp>
+        <Defn locX="40" locY="60" name="Doc" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="340" locY="60" name="RevCode" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="40" locY="30" name="Title" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="10" locY="60" name="Page Size" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="250" locY="80" name="Page Number" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="310" locY="80" name="Page Count" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolDisplayProp>
+        <Defn locX="52" locY="80" name="Page Modify Date" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolUserProp>
+        <Defn name="Doc" val=""/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Count" val="1"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Create Date" val="    March  8, 1995"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Number" val="1"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Page Size" val="A"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="RevCode" val="?"/>
+      </SymbolUserProp>
+      <SymbolUserProp>
+        <Defn name="Title" val=""/>
+      </SymbolUserProp>
+      <SymbolBBox>
+        <Defn x1="0" x2="360" y1="0" y2="90"/>
+      </SymbolBBox>
+      <CommentText>
+        <Defn locX="0" locY="20" name="Title" textJustification="0" x1="0" x2="18" y1="20" y2="30"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="0" locY="50" name="Size" textJustification="0" x1="0" x2="18" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="40" locY="50" name="Document Number" textJustification="0" x1="40" x2="120" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="330" locY="50" name="Rev" textJustification="0" x1="330" x2="348" y1="50" y2="60"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="0" locY="80" name="Date:" textJustification="0" x1="0" x2="24" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <CommentText>
+        <Defn locX="200" locY="80" name="Sheet" textJustification="0" x1="200" x2="224" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="360" y1="0" y2="20"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="360" y1="20" y2="50"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="30" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="30" x2="330" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="330" x2="360" y1="50" y2="80"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="0" x2="200" y1="80" y2="90"/>
+      </Rect>
+      <Rect>
+        <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="0" x1="200" x2="360" y1="80" y2="90"/>
+      </Rect>
+      <CommentText>
+        <Defn locX="280" locY="80" name="of" textJustification="0" x1="280" x2="290" y1="80" y2="90"/>
+        <TextFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+        </TextFont>
+      </CommentText>
+    </TitleBlockSymbol>
+    <PortSymbol>
+      <Defn name="PORTBOTH-L" sourceLibName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB"/>
+      <SymbolDisplayProp>
+        <Defn locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+        <PropFont>
+          <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+        </PropFont>
+        <PropColor>
+          <Defn val="48"/>
+        </PropColor>
+        <PropDispType>
+          <Defn ValueIfValueExist="0" val="1"/>
+        </PropDispType>
+      </SymbolDisplayProp>
+      <SymbolBBox>
+        <Defn x1="0" x2="30" y1="0" y2="20"/>
+      </SymbolBBox>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="0" x2="10" y1="10" y2="5"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="10" x2="20" y1="5" y2="5"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="20" x2="30" y1="5" y2="10"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="30" x2="20" y1="10" y2="15"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="20" x2="10" y1="15" y2="15"/>
+      </Line>
+      <Line>
+        <Defn lineStyle="0" lineWidth="0" x1="10" x2="0" y1="15" y2="10"/>
+      </Line>
+      <SymbolPinScalar>
+        <Defn hotptX="0" hotptY="10" name="PORTBOTH-L" position="0" startX="0" startY="10" type="1" visible="1"/>
+        <IsLong>
+          <Defn val="1"/>
+        </IsLong>
+        <IsClock>
+          <Defn val="0"/>
+        </IsClock>
+        <IsDot>
+          <Defn val="0"/>
+        </IsDot>
+        <IsLeftPointing>
+          <Defn val="1"/>
+        </IsLeftPointing>
+        <IsRightPointing>
+          <Defn val="0"/>
+        </IsRightPointing>
+        <IsNetStyle>
+          <Defn val="0"/>
+        </IsNetStyle>
+        <IsNoConnect>
+          <Defn val="0"/>
+        </IsNoConnect>
+        <IsGlobal>
+          <Defn val="0"/>
+        </IsGlobal>
+        <IsNumberVisible>
+          <Defn val="1"/>
+        </IsNumberVisible>
+      </SymbolPinScalar>
+    </PortSymbol>
+  </Cache>
+
+  <Schematic>
+    <Defn name="SCHEMATIC1"/>
+    <MaxDbId>
+      <Defn val="114"/>
+    </MaxDbId>
+    <Page>
+      <Defn name="PAGE1"/>
+      <TitleblockDisplayed>
+        <Defn val="1"/>
+      </TitleblockDisplayed>
+      <BorderDisplayed>
+        <Defn val="1"/>
+      </BorderDisplayed>
+      <GridRefDisplayed>
+        <Defn val="1"/>
+      </GridRefDisplayed>
+      <PageSizeInfo>
+        <Defn IsMetric="0" PinToPin="100" height="7200" width="9700"/>
+      </PageSizeInfo>
+      <PageSize>
+        <Defn val="A"/>
+      </PageSize>
+      <OuterBorderMagin>
+        <Defn x="0" y="0"/>
+      </OuterBorderMagin>
+      <OuterLineStyle>
+        <Defn val="0"/>
+      </OuterLineStyle>
+      <OuterLineWidth>
+        <Defn val="0"/>
+      </OuterLineWidth>
+      <OuterBorderIsVisible>
+        <Defn val="1"/>
+      </OuterBorderIsVisible>
+      <InnerBorderMargin>
+        <Defn x="0" y="0"/>
+      </InnerBorderMargin>
+      <InnerLineStyle>
+        <Defn val="0"/>
+      </InnerLineStyle>
+      <InnerLineWidth>
+        <Defn val="0"/>
+      </InnerLineWidth>
+      <InnerLineVisible>
+        <Defn val="0"/>
+      </InnerLineVisible>
+      <Color>
+        <Defn val="48"/>
+      </Color>
+      <Font>
+        <Defn charset="0" escapement="0" height="8" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+      </Font>
+      <LabelColor>
+        <Defn val="48"/>
+      </LabelColor>
+      <HorizontalCount>
+        <Defn count="5"/>
+      </HorizontalCount>
+      <HorizontalWidth>
+        <Defn val="10"/>
+      </HorizontalWidth>
+      <HorizontalChar>
+        <Defn val="0"/>
+      </HorizontalChar>
+      <HorizontalVisible>
+        <Defn val="0"/>
+      </HorizontalVisible>
+      <HorizontalAscending>
+        <Defn val="0"/>
+      </HorizontalAscending>
+      <HorizontalStyle>
+        <Defn val="0"/>
+      </HorizontalStyle>
+      <HorizontalSeparatorWidth>
+        <Defn val="0"/>
+      </HorizontalSeparatorWidth>
+      <VerticalCount>
+        <Defn count="4"/>
+      </VerticalCount>
+      <VerticalWidth>
+        <Defn val="10"/>
+      </VerticalWidth>
+      <VerticalChar>
+        <Defn val="1"/>
+      </VerticalChar>
+      <VerticalVisible>
+        <Defn val="0"/>
+      </VerticalVisible>
+      <VerticalAscending>
+        <Defn val="0"/>
+      </VerticalAscending>
+      <VerticalStyle>
+        <Defn val="0"/>
+      </VerticalStyle>
+      <VerticalSeparatorWidth>
+        <Defn val="0"/>
+      </VerticalSeparatorWidth>
+      <PageDateTime>
+        <Defn createDate="Monday, June 26, 2023" createTime="22:56:04" modifyDate="Monday, June 26, 2023" modifyTime="23:04:08"/>
+      </PageDateTime>
+      <NetScalar>
+        <Defn name=""/>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+      </NetScalar>
+      <NetScalar>
+        <Defn name=""/>
+      </NetScalar>
+      <Port>
+        <Defn color="48" dbId="53" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="510" locY="140" mirror="0" name="11" rotation="0" symbolName="PORTBOTH-L" type="1"/>
+        <PortDisplayProp>
+          <Defn dbId="105" locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-14" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PortDisplayProp>
+      </Port>
+      <Port>
+        <Defn color="48" dbId="45" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="330" locY="90" mirror="0" name="20" rotation="0" symbolName="PORTBOTH-L" type="1"/>
+        <PortDisplayProp>
+          <Defn dbId="103" locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-27" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PortDisplayProp>
+      </Port>
+      <Port>
+        <Defn color="48" dbId="23" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="320" locY="180" mirror="0" name="7" rotation="0" symbolName="PORTBOTH-L" type="1"/>
+        <PortDisplayProp>
+          <Defn dbId="99" locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="28"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PortDisplayProp>
+      </Port>
+      <Port>
+        <Defn color="48" dbId="37" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="190" locY="130" mirror="0" name="8" rotation="0" symbolName="PORTBOTH-L" type="1"/>
+        <PortDisplayProp>
+          <Defn dbId="101" locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-11" italic="0" name="Arial" orientation="0" weight="400" width="0"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PortDisplayProp>
+      </Port>
+      <Port>
+        <Defn color="48" dbId="61" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="590" locY="230" mirror="0" name="PORTBOTH-L" rotation="0" symbolName="PORTBOTH-L" type="1"/>
+        <PortDisplayProp>
+          <Defn dbId="107" locX="32" locY="5" name="Name" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </PortDisplayProp>
+      </Port>
+      <TitleBlock>
+        <Defn color="48" dbId="1" libName="E:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB" locX="590" locY="610" name="TitleBlock0" rotation="0" symbolName="TitleBlock0"/>
+        <KeepInLowerRightCorner>
+          <Defn val="true"/>
+        </KeepInLowerRightCorner>
+        <PageCount>
+          <Defn count="0"/>
+        </PageCount>
+        <PageNumber>
+          <Defn val="0"/>
+        </PageNumber>
+        <TitleBlockDisplayProp>
+          <Defn dbId="85" locX="40" locY="60" name="Doc" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="87" locX="340" locY="60" name="RevCode" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="89" locX="40" locY="30" name="Title" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="91" locX="10" locY="60" name="Page Size" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="93" locX="250" locY="80" name="Page Number" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="95" locX="310" locY="80" name="Page Count" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockDisplayProp>
+          <Defn dbId="97" locX="52" locY="80" name="Page Modify Date" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn charset="0" escapement="0" height="-9" italic="0" name="" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn ValueIfValueExist="0" val="1"/>
+          </PropDispType>
+        </TitleBlockDisplayProp>
+        <TitleBlockUserProp>
+          <Defn name="Cage Code" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr1" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr2" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr3" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgAddr4" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="OrgName" val=""/>
+        </TitleBlockUserProp>
+        <TitleBlockUserProp>
+          <Defn name="RevCode" val=""/>
+        </TitleBlockUserProp>
+      </TitleBlock>
+    </Page>
+  </Schematic>
+
+  <Occurrences>
+    <Defn/>
+    <InstOccurrence>
+      <Defn refInstId="-1"/>
+      <PortOccurrence>
+        <Defn keyType="PortName" refBusMemberName="" refKey="PORTBOTH-L" refPortName="PORTBOTH-L"/>
+        <OccUserProp>
+          <Defn name="ID" val="2"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="PORTBOTH-L"/>
+        </OccUserProp>
+      </PortOccurrence>
+      <PortOccurrence>
+        <Defn keyType="PortName" refBusMemberName="" refKey="8" refPortName="8"/>
+        <OccUserProp>
+          <Defn name="ID" val="4"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="8"/>
+        </OccUserProp>
+      </PortOccurrence>
+      <PortOccurrence>
+        <Defn keyType="PortName" refBusMemberName="" refKey="20" refPortName="20"/>
+        <OccUserProp>
+          <Defn name="ID" val="6"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="20"/>
+        </OccUserProp>
+      </PortOccurrence>
+      <PortOccurrence>
+        <Defn keyType="PortName" refBusMemberName="" refKey="11" refPortName="11"/>
+        <OccUserProp>
+          <Defn name="ID" val="8"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="11"/>
+        </OccUserProp>
+      </PortOccurrence>
+      <PortOccurrence>
+        <Defn keyType="PortName" refBusMemberName="" refKey="7" refPortName="7"/>
+        <OccUserProp>
+          <Defn name="ID" val="10"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="7"/>
+        </OccUserProp>
+      </PortOccurrence>
+      <TitleBlockOccurrence>
+        <Defn refInstId="1"/>
+        <OccUserProp>
+          <Defn name="ID" val="1"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Path Name" val="TitleBlock0"/>
+        </OccUserProp>
+        <OccUserProp>
+          <Defn name="Schematic Path" val="/"/>
+        </OccUserProp>
+      </TitleBlockOccurrence>
+    </InstOccurrence>
+  </Occurrences>
+
+  <CIS>
+    <Defn/>
+    <Groups>
+      <Defn/>
+      <Common>
+        <Defn/>
+      </Common>
+    </Groups>
+    <BOMVariants>
+      <Defn/>
+    </BOMVariants>
+  </CIS>
+
+</Design>
